@@ -5,7 +5,7 @@ We make use of the [PET/CT Invasive Fungal Infection Reports (PIFIR)](https://ww
 
 File overview:
 * The folder "reports" contains the original de-identified reports in the .txt file format.
-* The folder "annotations" contains brat annotation files in the .ann file format.
+* The folder "annotations" contains brat annotation files in the .ann and .txt file formats.
 * The file "annotation.conf" is a configuration file for brat that defines concept categories and relations.
 * The file "pilfer_metadata.csv" contains identifiers and a suggestion on how the data should be split for testing and validation.
 
